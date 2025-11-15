@@ -1,4 +1,4 @@
-"""
+
 ## Projeto Delivery IA – Recomendações Personalizadas
 
 Este projeto simula um sistema de recomendação inspirado no iFood, utilizando inteligência artificial e machine learning para sugerir restaurantes com base no perfil de cada cliente. Ele combina filtragem colaborativa com preferências de conteúdo para entregar sugestões relevantes e personalizadas.
@@ -53,3 +53,4 @@ https://projeto-delivery-ia.streamlit.app/
 
 ## Autora:
 Thais – apaixonada por IA aplicada, dados e experiências que encantam.
+
