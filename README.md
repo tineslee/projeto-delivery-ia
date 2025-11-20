@@ -1,6 +1,12 @@
 
 ## Projeto Delivery IA – Recomendações Personalizadas
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervisionado-green)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 Este projeto simula um sistema de recomendação inspirado no iFood, utilizando inteligência artificial e machine learning para sugerir restaurantes com base no perfil de cada cliente. Ele combina filtragem colaborativa com preferências de conteúdo para entregar sugestões relevantes e personalizadas.
 
 ---
@@ -10,6 +16,25 @@ Este projeto simula um sistema de recomendação inspirado no iFood, utilizando 
 - Pandas e NumPy – manipulação de dados
 - Scikit-learn – cálculo de similaridade
 - Streamlit – dashboard interativo
+
+## Técnicas utilizados
+
+Este projeto utiliza Machine Learning supervisionado para prever recomendações com base na interação do cliente.
+
+Tipo de aprendizado
+
+- Supervisionado: o modelo aprende com exemplos rotulados.
+
+## Pré-processamento
+
+- Tratamento de valores nulos
+- Codificação de variáveis categóricas (ex.: tipo de entrega, cidade)
+- Normalização ou padronização de variáveis numéricas (ex.: distância, valor do pedido)
+
+## Avaliação
+
+- Erro Médio Absoluto (MAE)
+- Erro Quadrático Médio (RMSE)
 
 ---
 
@@ -53,4 +78,5 @@ https://projeto-delivery-ia.streamlit.app/
 
 ## Autora:
 Thais – apaixonada por IA aplicada, dados e experiências que encantam.
+
 
